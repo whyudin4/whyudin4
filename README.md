@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whyudin4
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Website
 - 📫 How to reach me @w4hyusad on Instagram and X
 
