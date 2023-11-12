@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Website
-- 📫 How to reach me @w4hyusad
+- 📫 How to reach me @w4hyusad on Instagram and X
 
 <!---
 whyudin4/whyudin4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
